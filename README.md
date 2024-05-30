@@ -63,7 +63,6 @@ My expertise is in the JS ecosystem, specifically in building full-stack applica
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Version Control Tools
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
@@ -142,10 +141,7 @@ My expertise is in the JS ecosystem, specifically in building full-stack applica
 </a>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devendrakumarpandey/)](https://www.linkedin.com/in/devendrakumarpandey/)
-[![Gmail Badge](https://img.shields.io/badge/-dev1672000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev1672000@gmail.com)](mailto:dev1672000@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-devendra_pandey_rishu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/devendra_pandey_rishu/)](https://www.instagram.com/devendra_pandey_rishu/)
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=27F744&background=672EFF00&width=595&lines=Let's+connect+and+build+a+better+future+together!)](https://git.io/typing-svg)
 
